@@ -9,6 +9,9 @@ A web application to display the current weather of a city along with a relevant
 [![Flask](https://img.shields.io/badge/Flask-2.x-green)](https://flask.palletsprojects.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![Screenshot 2025-02-12 204029](https://github.com/user-attachments/assets/9fdbeaae-8ad6-4074-930f-c2f7a4e0b11f)
+
+
 ## Table of Contents
 
 - [Features](#features)
